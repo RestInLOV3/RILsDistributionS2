@@ -4,7 +4,7 @@
 Pomodoro.ahk	파일 코드 (따로 내용 편집하지 않고 사용할 예정이라면 삭제해도 됨)
 Pomodoro.exe	실행 파일
 README.txt	취급설명서
-ring.mp3		시간 종료 시 울릴 벨소리
+ring.mp3	시간 종료 시 울릴 벨소리
 
 
 >> 설치
